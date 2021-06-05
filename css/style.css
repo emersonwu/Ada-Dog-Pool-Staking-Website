@@ -3474,6 +3474,13 @@ input[type="button"].btn-block {
   white-space: nowrap; }
   .navbar-brand:hover, .navbar-brand:focus {
     text-decoration: none; }
+.navbar-logo {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    width: auto;
+    height: 4rem;
+}
 
 .navbar-nav {
   display: -webkit-box;
