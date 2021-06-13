@@ -1,0 +1,25 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://adadogpool.org/logo_64x64.png",
+        "url_png_logo": "https://adadogpool.org/logo_web.png",
+        "location": "Argentina",
+        "social": {
+            "twitter_handle": "adadogpool",
+            "telegram_handle": "adadogpool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "about": {
+            "me": "We are glad you decided to stake with us, and support our mission! Please feel free to contact us.",
+            "server": "ADA DOG Pool operates dedicated Bare Metal Servers. It is monitored 7x24, and has DDoS protection, IDS, and best in class hardware."
+        }
+    },
+    "my-pool-ids": {
+        "0": "",
+        "1": "",
+		"2": ""
+    }
+}
