@@ -1,11 +1,11 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://cardanocafe.org/logo_64x64.png",
-        "url_png_logo": "https://cardanocafe.org/logo_web.png",
-        "location": "Germany",
+        "url_png_icon_64x64": "https://adadogpool.org/logo_64x64.png",
+        "url_png_logo": "https://adadogpool.org/logo_web.png",
+        "location": "Argentina",
         "social": {
-            "twitter_handle": "CafeCardano",
-            "telegram_handle": "CardanoCafe",
+            "twitter_handle": "adadogpool",
+            "telegram_handle": "adadogpool",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -13,8 +13,8 @@
             "github_handle": ""
         },
         "about": {
-            "me": "Hey and welcome to CardanoCafe! We are an independent, cozy stake pool hosted on multiple reliable servers in Germany and strive to support the best cryptocurrency in the world. We believe in Cardano's groundbreaking technology, we strive for decentralization and to build a future with justice, fairness and equal chances to every individual. Our vision is to create a natural and harmonic balance between mankind, technology, nature and wildlife. Enjoy an overview about how we support these goals and about our commitments by visiting www.cardanocafe.org/projects. By delegating your stake to CardanoCafe you help us supporting our support. Since we strive for true decentralization, we do not belong to any guild or alliance that contradicts the idea of ​​decentralization. We think it is important that every stake pool operator builds and administrates his stake pool in best effort, independently and in that way he enjoys it. A good, healthy ecosystem is characterized by a huge diversity! And that’s exactly what makes it tough! We want to be reliable, open-minded and straightforward to you and the community! We are happy to be part of Cardano and are looking forward to the upcoming years with you and the Cardano community! Yours barista Chris, founder and administrator of CardanoCafe. CardanoCafe was founded in August 2020.",
-            "server": "CardanoCafe operates dedicated servers to serve the best cup of ADA-rewards to you. In total, CardanoCafe powers 7 relay nodes, 3 block producing nodes, 1 machine that receives the dailys backups of relay and block nodes, 3 monitoring machines that receive the statistics and metrics of all relay and block nodes. The whole infrastructure of CardanoCafe is protected by dedicated firewall machines. Following systems are used to bring the best staking experience to you: Coffee Machine A: Intel Xeon D 1541, 128 GByte ECC RDIMM; Coffee Machine B: Intel Xeon E5-1650 v4, 256 GByte ECC RDIMM; Coffee Machine C: Intel Xeon E5-2660 v2, 256 GByte LRDIMM; Coffee Machine D: Intel Xeon E5-2620 v4, 64 GByte ECC LRDIMM; Coffee Machine E: Atom C2558, 8 GByte ECC UDIMM; Coffee Machine F: Atom C2558, 8 GByte ECC UDIMM;"
+            "me": "We are ADA DOG Pool",
+            "server": "ADA DOG Pool operates Bare Metal dedicated servers;"
         }
     },
     "my-pool-ids": {
