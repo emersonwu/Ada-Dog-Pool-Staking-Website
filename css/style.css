@@ -9167,6 +9167,10 @@ textarea.form-control {
 .heading-section.heading-section-white p {
   color: rgba(255, 255, 255, 0.9); }
 
+.force-width-720 ul {
+  min-width: 720px;
+}
+
 .img,
 .blog-img,
 .user-img {
