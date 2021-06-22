@@ -239,6 +239,10 @@ input[type="datetime-local"],
 input[type="month"] {
   -webkit-appearance: listbox; }
 
+input[type="pool-id"] {
+  width: 34em;
+}
+
 textarea {
   overflow: auto;
   resize: vertical; }
