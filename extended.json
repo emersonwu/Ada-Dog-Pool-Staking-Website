@@ -1,0 +1,40 @@
+{
+    "how-to-implement": "",
+    "info": {
+        "url_png_icon_64x64": "https://adadogpool.org/logo_64x64.png",
+        "url_png_logo": "https://adadogpool.org/logo_web.png",
+        "location": "Argentina",
+        "social": {
+            "twitter_handle": "adadogpool",
+            "telegram_handle": "adadogpool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": 	"We are ADA DOG Pool",
+            "server": "ADA DOG Pool operates Bare Metal dedicated servers",
+            "company": ""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": [
+        "1d203e7d0dd203d63e04d8403b2ca9a92df7ebf72c1167854f1d2acf"
+    ],
+    "when-satured-then-recommend": [
+        ""
+    ],
+    "telegram-admin-handle": [
+        ""
+    ]
+}
