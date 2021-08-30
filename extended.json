@@ -1,0 +1,40 @@
+{
+    "how-to-implement": "",
+    "info": {
+        "url_png_icon_64x64": "https://adapool.one/logo_64x64.png",
+        "url_png_logo": "https://adapool.one/logo_web.png",
+        "location": "Argentina",
+        "social": {
+            "twitter_handle": "ADAOnePool",
+            "telegram_handle": "ADAONEPool",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "We recognize that there is only ONE universal principle that treats everyone equal, even though there are no two people alike. This principle is the mechanics of the universe, not laws or moral rules made by men. The only true path to fulfillment, happiness, and peace is through ONENESS with ourselves and with others. We Love. Love is our faith, love is our offering to the universe.",
+            "server": "ADA ONE Pool operates dedicated Bare Metal servers, to serve the best quality of ADA-rewards to you.",
+            "company": ""
+        },
+        "rss": ""
+    },
+    "my-pool-ids": [
+        "9a881d6856d6e31820f653ef066ec55bbc6ce60e1370935e662df659"
+    ],
+    "when-satured-then-recommend": [
+        ""
+    ],
+    "telegram-admin-handle": [
+        ""
+    ]
+}
